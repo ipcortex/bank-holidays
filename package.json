@@ -1,0 +1,27 @@
+{
+  "name": "pabx-bank-holidays",
+  "version": "1.0.0-dev1",
+  "description": "Sets nightmodes on an IPCortex Communication System according to the bank holidays.",
+  "main": "app.js",
+  "dependencies": {
+    "debug": "^3.1.0",
+    "request": "^2.85.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "scripts": {
+    "test": "eslint ."
+  },
+  "keywords": [
+    "ipcortex",
+    "cs",
+    "communication",
+    "pabx",
+    "pbx",
+    "nightmode"
+  ],
+  "author": "Jamie Knight <jamie+NPM@ipcortex.co.uk>",
+  "license": "ISC"
+}
