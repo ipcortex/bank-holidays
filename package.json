@@ -23,5 +23,9 @@
     "nightmode"
   ],
   "author": "Jamie Knight <jamie+NPM@ipcortex.co.uk>",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+      "type" : "git",
+      "url" : "https://github.com/ipcortex/pabx-bank-holidays.git"
+    }
 }
