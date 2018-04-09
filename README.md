@@ -24,7 +24,7 @@ We're always listening for feedback! Please feel free to raise issues on here, o
 If you fancy making changes or improvements, submit a pull request for us to review. Please make sure your changes pass ESLint by running `npm test`. :)
 
 # Acknowledgements
-* We use the [GOV.UK bank holiday](https://www.gov.uk/bank-holidays) data in [JSON form](https://www.gov.uk/bank-holidays) - shout out to GDS for making that data freely available and in an easily consumable form!
+* We use the [GOV.UK bank holiday](https://www.gov.uk/bank-holidays) data in [JSON form](https://www.gov.uk/bank-holidays.json) - shout out to GDS for making that data freely available and in an easily consumable form!
 
 # Licence
 MIT licenced. See the [LICENCE](LICENCE) file for details.
