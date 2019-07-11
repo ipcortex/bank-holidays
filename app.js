@@ -28,11 +28,11 @@ const getBankHolidays = () => new Promise((resolve, reject) => {
 					return;
 				}
 			}
-			if(!data.hasOwnProperty(config.division)) {
+			if(!Object.prototype.hasOwnProperty.call(data, config.division)) {
 				reject(['Invalid division specified! Valid keys are:', Object.keys(data)]);
 				return;
 			}
-			if(!data[config.division].hasOwnProperty('events') || !(data[config.division].events instanceof Array)) {
+			if(!Object.prototype.hasOwnProperty.call(data[config.division], 'events') || !(data[config.division].events instanceof Array)) {
 				reject('Unexpected data format! No event array in division?');
 				return;
 			}
