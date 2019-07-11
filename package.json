@@ -4,12 +4,12 @@
   "description": "Sets nightmodes on an IPCortex Communication System according to the bank holidays.",
   "main": "app.js",
   "dependencies": {
-    "debug": "^3.1.0",
-    "request": "^2.87.0",
-    "request-promise-native": "^1.0.5"
+    "debug": "^4.1.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
   },
   "devDependencies": {
-    "eslint": "^4.19.1"
+    "eslint": "^6.0.1"
   },
   "scripts": {
     "test": "eslint ."
