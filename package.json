@@ -1,6 +1,6 @@
 {
   "name": "pabx-bank-holidays",
-  "version": "1.0.0-dev1",
+  "version": "1.0.0",
   "description": "Sets nightmodes on an IPCortex Communication System according to the bank holidays.",
   "main": "app.js",
   "dependencies": {
