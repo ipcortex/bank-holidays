@@ -9,7 +9,7 @@
     "request-promise-native": "^1.0.7"
   },
   "devDependencies": {
-    "eslint": "^6.0.1"
+    "eslint": "^6.2.2"
   },
   "scripts": {
     "test": "eslint ."
